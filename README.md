@@ -7,11 +7,9 @@ I'm a Software Engineer and a Community Engineer who currently works as a Develo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently working at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Django, Fast API and Python.
-- 😊 I’m looking for help with open-source projects, hackathons, and Mid-level opportunities.
+- 🌱 I’m currently Workign Solana&Ethereum Smart Contract, JavaScript, Reactjs, Django, Fast API and Python.
+- 😊 I’m looking for help with open-source projects, hackathons, and Senior-level opportunities.
 - 💼 Job interests: Software Engineer, BlockChain(Solana, Ethereum, Smart Contract) Back-end Engineer, or Python Stack development.
-- 📫 You can [view my resume](#) and contact me by emailing umohmcdave@gmail.com.
 
 ---
 
